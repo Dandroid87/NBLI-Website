@@ -1,0 +1,29 @@
+The no block limit Initiative - 
+
+“By removing the blocksize limit, we are guaranteed that bitcoin can and will become cash for the entire world for years to come”
+
+PSA:  All of the major BCH clients allow you to remove the blocksize limit.
+
+“The blocksize limit is now nothing more than a Trojan Horse. It's existence in the protocol is a threat to scaling as long as it remains. The limit is nothing more than a restriction on the output of miners. We should push to remove the limit in our next hard fork.” - reddit user
+https://www.reddit.com/r/btc/comments/7qdli0/the_blocksize_limit_is_now_nothing_more_than_a/
+
+
+
+Header:
+About the Initiative
+Configure your client
+Bitcoin ABC
+Bitcoin Unlimited
+Bitcoin XT
+Supporters
+Get Involved
+More Info
+https://www.reddit.com/r/btc/comments/7qdli0/the_blocksize_limit_is_now_nothing_more_than_a/
+https://www.reddit.com/r/btc/comments/6mjjbl/we_are_only_one_hard_fork_away_from_a_completely/
+
+Contact Us
+
+Footer:
+github
+twitter
+noblocklimit
