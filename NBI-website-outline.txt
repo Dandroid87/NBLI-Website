@@ -16,14 +16,21 @@ Bitcoin ABC
 Bitcoin Unlimited
 Bitcoin XT
 Supporters
+FAQ
 Get Involved
 More Info
 https://www.reddit.com/r/btc/comments/7qdli0/the_blocksize_limit_is_now_nothing_more_than_a/
 https://www.reddit.com/r/btc/comments/6mjjbl/we_are_only_one_hard_fork_away_from_a_completely/
+http://blog.vermorel.com/journal/2017/12/17/terabyte-blocks-for-bitcoin-cash.html
+
+
+About the Initiative
+The No Block Limit Initiative is an organization dedicated to removing the blocksize limit from Bitcoin Cash.
 
 Contact Us
 
 Footer:
 github
 twitter
+Telegram Group
 noblocklimit
