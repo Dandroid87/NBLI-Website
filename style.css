@@ -1,1 +1,47 @@
 //This is the CSS stylesheet for the webpage
+html {
+}
+head {
+
+}
+.header {
+  color: #FFF;
+  text-align: center;
+}
+.navbar {
+    text-align: center;
+    float: left;
+    width: 16.66%
+    overflow: hidden;
+    background-color: #1A1A1A;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.navbar a {
+    text-align: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+body {
+  font-family: "Arial", serif;
+  text-align: ;
+}
+h2 {
+  text-align: center;
+}
+/*
+h3{
+	text-align: left;
+}
+
+h4{
+	text-align: left;
+}*/
